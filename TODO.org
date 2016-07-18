@@ -1,5 +1,0 @@
-* Emacs:
-** Disable scrollwhell
-** Bind volume-down to end-of-defun
-** Bind volume-up to beginning-of-defun
-
