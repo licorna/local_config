@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<root>
+    <item>
+        <name>Swap Volume To Scroll</name>
+        <identifier>private.swap_volume_knob_to_scroll</identifier>
+        <autogen>
+            __KeyToKey__
+            ConsumerKeyCode::VOLUME_UP, ModifierFlag::SHIFT_L,
+            KeyCode::PAGEDOWN
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            ConsumerKeyCode::VOLUME_DOWN, ModifierFlag::SHIFT_L,
+            KeyCode::PAGEUP
+        </autogen>
+    </item>
+</root>
